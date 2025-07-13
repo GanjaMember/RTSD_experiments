@@ -1,0 +1,13 @@
+# Основные библиотеки
+numpy
+pandas
+matplotlib
+tqdm
+torch
+torchvision
+
+# MMDetection и относящиеся к ней библиотеки
+openmim
+mmengine
+mmcv>=2.0.0rc4,<2.2.0
+mmdet
